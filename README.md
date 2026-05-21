@@ -40,7 +40,3 @@ Or with Icarus Verilog (for the `.v` testbench only):
 iverilog -o fp_adder_sim fp_adder.v fp_adder_test.v
 vvp fp_adder_sim
 ```
-
-## License
-
-MIT — see [LICENSE](LICENSE).
