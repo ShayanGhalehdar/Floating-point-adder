@@ -1,0 +1,14 @@
+# Verilog / ModelSim
+work/
+*.wlf
+*.vstf
+*.bak
+*.mpf
+vsim.wlf
+transcript.bak
+
+# Icarus Verilog
+*.vvp
+
+# OS
+.DS_Store
